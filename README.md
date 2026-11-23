@@ -2,7 +2,7 @@
 
 Household chores with schedules, fixed owners or rotations, a weekly board to tick them off, and a summary of who actually did the work.
 
-**Live demo:** [https://choreboard-choreboard.vercel.app/](https://choreboard-choreboard.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
+**Live demo:** [https://choreboard-app.vercel.app/](https://choreboard-app.vercel.app/) — runs entirely in your browser; demo data is fictional and labelled.
 
 ![Landing with the live weekly board preview](docs/landing.png)
 
